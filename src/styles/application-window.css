@@ -1,0 +1,17 @@
+
+
+#mainWin {
+    display:flex;
+    background-color: rgb(83, 80, 80);
+    height:45px;
+    padding:12px;
+    justify-content:center;
+    margin:0; 
+}
+
+button {
+    background-color: rgb(156, 156, 156);
+    padding:7px;
+    color:white;
+    font-family: 'Red Hat Mono', monospace;
+}
